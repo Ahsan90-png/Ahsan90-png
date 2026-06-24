@@ -1,12 +1,16 @@
-# 🎯 Hi there, I'm Ahsan! 👋
+# 🪐 Welcome to my Galaxy!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Creative+3D+Web+Creator;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,2,22,5&height=250&section=header&text=Ahsan_GR&fontSize=75&fontColor=ffffff&fontAlignY=40&animation=twinkle" alt="Waving Banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00FFCC&center=true&vCenter=true&width=500&lines=🚀+Full+Stack+Software+Developer;✨+Creative+3D+WebGL+Developer;💻+Open+Source+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🌌 About Me
 
 I am a passionate software developer who loves creating interactive web experiences and building applications that make a difference. Currently exploring **Three.js, 3D Web Graphics, and Full Stack Development**.
 
@@ -17,22 +21,27 @@ I am a passionate software developer who loves creating interactive web experien
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### ⚡ Tech Stack & Skills
 
-#### Frontend & 3D
 <p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Three.js-%23000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-</p>
-
-#### Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/git-%23F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <a href="https://javascript.info" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://react.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/react-colored.svg" alt="React" width="40" height="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://threejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/threejs-colored.svg" alt="Three.js" width="40" height="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/html5-colored.svg" alt="HTML5" width="40" height="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/css3-colored.svg" alt="CSS3" width="40" height="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/git-colored.svg" alt="Git" width="40" height="40" />
+  </a>
 </p>
 
 ---
@@ -40,12 +49,16 @@ I am a passionate software developer who loves creating interactive web experien
 ### 📊 GitHub Stats & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahsan90-png&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan90-png&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <!-- GitHub Stats Card with custom neon layout -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahsan90-png&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
+  
+  <!-- Top Languages Card with matching theme -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan90-png&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahsan90-png&theme=tokyonight" alt="GitHub Streak" width="97%" />
+  <!-- GitHub Streak Stats with waving graph look -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahsan90-png&theme=radical" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
